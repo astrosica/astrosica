@@ -15,8 +15,8 @@ Hi there, I'm Jessica 👋🏻
 <!-- - Excel -->
 
 📚 Certificates: 📚
-- [The Complete Oracle SQL Certification](https://github.com/astrosica/astrosica/assets/23153120/73876bc1-6200-428a-984e-76a408689a84)
-- [Tableau Desktop Specialist & Certified Data Analyst](https://github.com/astrosica/astrosica/assets/23153120/4230bac5-3882-4ab3-b246-bad8c8549e96)
+- [The Complete Oracle SQL Certification](https://www.udemy.com/certificate/UC-d5fdc2c9-bb9f-4d3d-bf5a-ab043e4aefde/)
+- [Tableau Desktop Specialist & Certified Data Analyst](https://www.udemy.com/certificate/UC-05ac22a9-b23e-44c7-907a-af1bebdcf9e0/)
 
 Projects using SQL:
 - Transportation Analytics ([link](https://astrosica.github.io/transportation-analytics.html))
