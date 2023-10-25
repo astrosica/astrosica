@@ -4,8 +4,8 @@ Hi there, I'm Jessica 👋🏻
 - I'm a Data Analyst with a PhD in Astronomy & Astrophysics from the University of Toronto
 - I have experience with data cleaning, quantitative data analysis, regression analysis, statistical analysis, data pipeline design and development, data visualization, and storytelling
 - I'm located in Hamilton, ON
-- Browse my [portolio](https://astrosica.github.io/index.html)
-- Find me on [LinkedIn](https://www.linkedin.com/in/astrosica/)
+- Browse my portfolio [here](https://astrosica.github.io/index.html)
+- Find me on LinkedIn [here](https://www.linkedin.com/in/astrosica/)
 
 📊 Skills: 📊
 - SQL
