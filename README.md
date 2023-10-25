@@ -1,16 +1,29 @@
-### Hi there 👋
+Hi there, I'm Jessica 👋🏻
 
-<!--
-**astrosica/astrosica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ About me: ✨
+- I'm a Data Analyst with a PhD in Astronomy & Astrophysics from the University of Toronto
+- I have experience with data cleaning, quantitative data analysis, regression analysis, statistical analysis, data pipeline design and development, data visualization, and storytelling
+- I'm located in Hamilton, ON
+- Browse my [portolio](https://astrosica.github.io/index.html)
+- Find me on [LinkedIn](https://www.linkedin.com/in/astrosica/)
 
-Here are some ideas to get you started:
+📊 Skills: 📊
+- SQL
+- Python
+- Tableau
+- Bash
+<!-- - Excel -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Certificates: 📚
+The Complete Oracle SQL Certification![image](https://github.com/astrosica/astrosica/assets/23153120/73876bc1-6200-428a-984e-76a408689a84)
+Tableau Desktop Specialist & Certified Data Analyst![image](https://github.com/astrosica/astrosica/assets/23153120/4230bac5-3882-4ab3-b246-bad8c8549e96)
+
+Projects using SQL:
+- Transportation Analytics ([link](https://astrosica.github.io/transportation-analytics.html))
+
+<!-- Projects using Tableau: -->
+
+<!-- Projects using Excel: -->
+
+
+
