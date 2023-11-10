@@ -12,6 +12,7 @@ Hi there, I'm Jessica 👋🏻
 - Python
 - Tableau
 - Bash
+- Data pipeline design and development
 <!-- - Excel -->
 
 📚 Certificates: 📚
@@ -21,7 +22,8 @@ Hi there, I'm Jessica 👋🏻
 Projects using SQL:
 - Transportation Analytics ([link](https://astrosica.github.io/transportation-analytics.html))
 
-<!-- Projects using Tableau: -->
+Projects using Tableau:
+- Transportation Analytics ([link](https://astrosica.github.io/subway-delay-causes.html))
 
 <!-- Projects using Excel: -->
 
