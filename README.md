@@ -12,7 +12,6 @@ Hi there, I'm Jessica 👋🏻
 - Python
 - Tableau
 - Bash
-- Data pipeline design and development
 <!-- - Excel -->
 
 📚 Certificates: 📚
