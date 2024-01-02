@@ -1,7 +1,7 @@
 Welcome, I'm Jess! 👋🏻
 
 ✨ About me:
-- I'm a former data-driven astronomer from the University of Toronto with my PhD in Astronomy & Astrophysics
+- I'm a former data-driven astronomer from the University of Toronto with an HBSc in Astronomy & Physics and a PhD in Astronomy & Astrophysics
 - I have experience with data pipeline design and development, statistical analysis, regression analysis, data modeling, data cleaning, data visualization, and storytelling
 - I'm located in Hamilton, ON
 - Find me on LinkedIn [here](https://www.linkedin.com/in/astrosica/)
