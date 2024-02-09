@@ -1,7 +1,7 @@
 Welcome, I'm Jess! 👋🏻
 
 ✨ About me:
-- I'm a highly curious data analyst trained as a professional astronomer with expertise in data cleaning, statistical analysis, data pipelines, and documentation using large datasets.
+- I'm a highly curious data analyst trained as a professional astronomer from the University of Toronto with expertise in data cleaning, statistical analysis, data pipelines, and documentation using large datasets.
 - I'm located in Hamilton, ON
 - Find me on LinkedIn [here](https://www.linkedin.com/in/astrosica/)
 <!--- - Browse my portfolio [here](https://astrosica.github.io/index.html) -->
