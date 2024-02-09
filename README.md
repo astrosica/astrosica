@@ -1,23 +1,24 @@
 Welcome, I'm Jess! 👋🏻
 
 ✨ About me:
-- I'm a former data-driven astronomer from the University of Toronto with an HBSc in Astronomy & Physics and a PhD in Astronomy & Astrophysics
-- I have experience with data pipeline design and development, statistical analysis, regression analysis, data modeling, data cleaning, data visualization, and storytelling
+- I'm a highly curious data analyst trained as a professional astronomer with expertise in data cleaning, statistical analysis, data pipelines, and documentation using large datasets.
 - I'm located in Hamilton, ON
 - Find me on LinkedIn [here](https://www.linkedin.com/in/astrosica/)
 <!--- - Browse my portfolio [here](https://astrosica.github.io/index.html) -->
 
-<!--- 📊 Skills: -->
-<!--- - SQL -->
-<!--- - Python -->
-<!--- - Tableau -->
-<!-- - Excel -->
+📊 Skills:
+- SQL (MySQL, BigQuery)
+- Excel
+- Tableau
+- Python
+- Jupyter Notebook
+- Git/GitHub
 
-<!--  📚 Certificates: -->
-<!-- - [The Complete Oracle SQL Certification](https://www.udemy.com/certificate/UC-d5fdc2c9-bb9f-4d3d-bf5a-ab043e4aefde/) -->
-<!-- - [Tableau Desktop Specialist & Certified Data Analyst](https://www.udemy.com/certificate/UC-05ac22a9-b23e-44c7-907a-af1bebdcf9e0/) -->
+Analytics Projects and Code:
+- E-electronics Ecommerce Analytics ([link](https://github.com/astrosica/e-Electronics_analysis))
+- User-based data pipeline for data management and analysis of 1,500 telescope images ([link](https://github.com/astrosica/W3-DIT))
+- Data pipeline for data management, analysis, and visualization of complex telescope data ([link](https://github.com/astrosica/iras-16293-2422))
 
-<!-- Analytics Projects: -->
 <!-- - Transportation Analytics Using SQL and Tableau ([link](https://astrosica.github.io/transportation-analytics.html)) -->
 
 
