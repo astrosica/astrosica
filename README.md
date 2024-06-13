@@ -15,5 +15,17 @@ Tools: Tableau, Git/GitHub, Jupyter Notebook, MS Office Suite (Excel, PowerPoint
 Ph.D. Astronomy & Astrophysics, University of Toronto<br>
 B.Sc. (Honours) Astronomy & Physics
 
-## Certifications
-Udemy: Machine Learning, SQL, Tableau, Excel
+## Projects
+
+### Machine Learning
+
+* Predicting Credit Card Approvals: 
+
+### Reporting and Dashboards
+
+* Insurance Analysis: Developed an interactive Tableau dashboard to report and analyze 70K insurance claims and a PowerPoint presentation to provide actionable insights to guide future marketing and budget decisions.
+* Marketing Analysis: Performed exploratory analysis and data validation of 100K sales records for a sample e-commerce company using Excel and SQL (Google BigQuery). Developed an interactive Tableau dashboard to report sales and marketing metrics.
+
+
+
+
