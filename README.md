@@ -1,7 +1,9 @@
 # Hello, I'm Jess! ✨
 
 📍 Hamilton, Ontario
-📧 Email:[jessicacampbell.astro@gmail.com](mailto:jessicacampbell.astro@gmail.com)
+
+📧 Email:[jessicacampbell.astro@gmail.com](mailto:jessicacampbell.astro@gmail.com)]
+
 🔗 LinkedIn: [linkedin.com/astrosica](https://www.linkedin.com/in/astrosica/)
 
 ## 👩‍💻 About Me
