@@ -33,4 +33,4 @@ B.Sc. (Honours) Astronomy & Physics
 
 * Predicting loan repayments: Predicted whether a lender will repay their loan using decision trees and random forest.
 * Classifying anonymized data: Classified anonymized data into two target classes using k-nearest neighbours (KNN). 
-* Predicting ad clicks: Predicted whether someone clicked on an ad using logistic regression.
+* Predicting ad clicks: Predicted whether someone will click on an ad using logistic regression.
