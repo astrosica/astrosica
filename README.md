@@ -5,7 +5,7 @@
 🔗 LinkedIn: [linkedin.com/astrosica](https://www.linkedin.com/in/astrosica/)
 
 ## 👩‍💻 About Me
-Astrophysics research scientist with 8+ years of experience in quantitative data-driven research and analysis excited to leverage my skills in data science to solve challenging problems using data.
+Astrophysics research scientist with 8+ years of experience in quantitative data-driven research and analysis, data pipeline design and development, and technical writing and documentation excited to leverage my skills in data science to solve challenging problems using data.
 
 ## Tech Stack
 Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy), SQL (BigQuery, MySQL) <br>
