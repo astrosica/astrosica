@@ -23,9 +23,9 @@ B.Sc. (Honours) Astronomy & Physics, University of Toronto
 
 ### Reporting and Dashboards (SQL, Tableau, Excel)
 
-* [Insurance Analysis](https://github.com/astrosica/data-science-portfolio/tree/main/Reporting%20and%20Dashboards/MedInsure_claims_analysis): Developed an interactive Tableau dashboard to report and analyze 70K insurance claims, providing actionable insights to guide future marketing and budget decisions as a PowerPoint presentation.
-* [Marketing Analysis](https://github.com/astrosica/data-science-portfolio/tree/main/Reporting%20and%20Dashboards/e-Electronics_sales_analysis): Performed exploratory analysis and data validation of 100K sales records for a sample e-commerce company using Excel and SQL (Google BigQuery). Developed an interactive Tableau dashboard to report sales and marketing metrics.
-* [TTC Delay Analysis](https://github.com/astrosica/data-science-portfolio/tree/main/Reporting%20and%20Dashboards/TTC_transportation_analysis): Performed exploratory analysis and data cleaning of 40K subway delays for 2022-2023 using SQL and Tableau to investigate performance metrics, YoY KPIs, and performance strategies.
+* [Insurance Analysis](https://github.com/astrosica/data-science-portfolio/tree/main/Reporting%20and%20Dashboards/Insurance%20Claims%20Analysis): Developed an interactive Tableau dashboard to report and analyze 70K insurance claims, providing actionable insights to guide future marketing and budget decisions as a PowerPoint presentation.
+* [Marketing Analysis](https://github.com/astrosica/data-science-portfolio/tree/main/Reporting%20and%20Dashboards/e-Commerce%20Marketing%20Analysis): Performed exploratory analysis and data validation of 100K sales records for a sample e-commerce company using Excel and SQL (Google BigQuery). Developed an interactive Tableau dashboard to report sales and marketing metrics.
+* [TTC Delay Analysis](https://github.com/astrosica/data-science-portfolio/tree/main/Reporting%20and%20Dashboards/TTC%20Delay%20Analysis): Performed exploratory analysis and data cleaning of 40K subway delays for 2022-2023 using SQL and Tableau to investigate performance metrics, YoY KPIs, and performance strategies.
 
 ## Learning Projects
 
