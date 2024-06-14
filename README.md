@@ -13,7 +13,7 @@ Tools: Tableau, Git/GitHub, Jupyter Notebook, MS Office Suite (Excel, PowerPoint
 
 ## Education
 Ph.D. Astronomy & Astrophysics, University of Toronto<br>
-B.Sc. (Honours) Astronomy & Physics
+B.Sc. (Honours) Astronomy & Physics, University of Toronto
 
 ## Data Projects
 
