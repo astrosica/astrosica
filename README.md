@@ -7,11 +7,11 @@
 ## 👩‍💻 About Me
 Astrophysics research scientist with 8+ years of experience in quantitative data-driven research and analysis, data pipeline design and development, and technical writing and documentation excited to leverage my skills in data science to solve challenging problems using data.
 
-## Tech Stack
+## 🛠️ Skills
 Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy), SQL (BigQuery, MySQL) <br>
 Tools: Tableau, Git/GitHub, Jupyter Notebook, MS Office Suite (Excel, PowerPoint, Word)
 
-## Education
+## 📚 Education
 Ph.D. Astronomy & Astrophysics, University of Toronto<br>
 B.Sc. (Honours) Astronomy & Physics, University of Toronto
 
