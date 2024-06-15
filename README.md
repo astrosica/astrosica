@@ -9,7 +9,7 @@
 ## 🛠️ Skills
 Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy), SQL (BigQuery, MySQL) <br>
 Tools: Tableau, Git/GitHub, Jupyter Notebook, MS Office Suite (Excel, PowerPoint, Word) <br>
-Techniques: EDA, Statistical analysis, Data pipelines, ML, Fourier Analysis, Documentation, Research, Technical writing, Data visualization
+Techniques: EDA, Statistical analysis, Data pipelines, ML, Fourier Analysis, Documentation, Quantitative Research, Technical writing, Data visualization
 
 
 ## Data Projects
