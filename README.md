@@ -1,9 +1,8 @@
 # Hello, I'm Jess! ✨
 
-📍 Hamilton, Ontario <br>
+🌄 Hamilton, Ontario <br>
 📧 Email: [jessicacampbell.astro@gmail.com](mailto:jessicacampbell.astro@gmail.com) <br>
 🔗 LinkedIn: [linkedin.com/astrosica](https://www.linkedin.com/in/astrosica/)
-🌌 Astrostitches: I cross-stitch astronomy observations
 
 ## 👩‍💻 About Me
 Astrophysics research scientist with 8+ years of experience in quantitative data-driven research and analysis, data pipeline design and development, and technical writing and documentation excited to leverage my skills in data science to solve challenging problems using data.
