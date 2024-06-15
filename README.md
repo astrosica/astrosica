@@ -8,7 +8,9 @@
 
 ## 🛠️ Skills
 Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy), SQL (BigQuery, MySQL) <br>
-Tools: Tableau, Git/GitHub, Jupyter Notebook, MS Office Suite (Excel, PowerPoint, Word)
+Tools: Tableau, Git/GitHub, Jupyter Notebook, MS Office Suite (Excel, PowerPoint, Word) <br>
+Techniques: Exploratory data analysis, Statistical analysis, Data pipelines, Machine learning, Fourier Analysis, Documentation, Research, Technical writing, Data visualization, Data cleaning and validation
+
 
 ## Data Projects
 
