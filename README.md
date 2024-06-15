@@ -1,8 +1,11 @@
 # Hello, I'm Jess! ✨
 
-🌄 Hamilton, Ontario <br>
-📧 Email: [jessicacampbell.astro@gmail.com](mailto:jessicacampbell.astro@gmail.com) <br>
-🔗 LinkedIn: [linkedin.com/astrosica](https://www.linkedin.com/in/astrosica/)
+🔭 Astrophysics research scientist with 8+ YOE in quantitative data-driven research and analysis <br>
+📚 PhD in Astronomy & Astrophysics + HBSc in Astronomy & Physics from the University of Toronto <br>
+🌄 Recently moved to Hamilton, Ontario for the hiking trails and waterfalls <br>
+📧 Email me at [jessicacampbell.astro@gmail.com](mailto:jessicacampbell.astro@gmail.com) <br>
+🙌 Connect with me on LinkedIn at [linkedin.com/astrosica](https://www.linkedin.com/in/astrosica/) <br>
+⚡ Fun fact: I cross-stitch realistic astronomy observations on [Etsy](https://www.etsy.com/ca/shop/Astrostitches)
 
 ## 👩‍💻 About Me
 Astrophysics research scientist with 8+ years of experience in quantitative data-driven research and analysis, data pipeline design and development, and technical writing and documentation excited to leverage my skills in data science to solve challenging problems using data.
@@ -10,10 +13,6 @@ Astrophysics research scientist with 8+ years of experience in quantitative data
 ## 🛠️ Skills
 Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy), SQL (BigQuery, MySQL) <br>
 Tools: Tableau, Git/GitHub, Jupyter Notebook, MS Office Suite (Excel, PowerPoint, Word)
-
-## 📚 Education
-Ph.D. Astronomy & Astrophysics, University of Toronto<br>
-B.Sc. (Honours) Astronomy & Physics, University of Toronto
 
 ## Data Projects
 
