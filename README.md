@@ -8,7 +8,7 @@ I'm an Astrophysics Research Scientist excited to make an impact using data scie
 👥 Mentored a student on a year-long data project through to publication in a high-impact research journal <br>
 💬 Taught 500+ technical and non-technical students over 17 classes, including on the use of Python <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14"> Email me at [jessicacampbell.astro@gmail.com](mailto:jessicacampbell.astro@gmail.com) <br>
-🙌 Connect with me on LinkedIn at [linkedin.com/astrosica](https://www.linkedin.com/in/astrosica/) <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="14"> Connect with me on LinkedIn at [linkedin.com/astrosica](https://www.linkedin.com/in/astrosica/) <br>
 ⚡ Fun fact: I cross-stitch realistic astronomy observations on [Etsy](https://www.etsy.com/ca/shop/Astrostitches)
 
 ## 🛠️ Skills
