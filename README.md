@@ -1,10 +1,13 @@
 # Hello, I'm Jess! ✨
 
+I'm an Astrophysics Research Scientist excited to make an impact using data science.
+
+## 👩‍💻 About Me
 🔭 Astrophysics research scientist with 8+ YOE in quantitative data-driven research and analysis <br>
 📚 PhD in Astronomy & Astrophysics + HBSc in Astronomy & Physics from the University of Toronto <br>
 👥 Mentored a student on a year-long data project through to publication in a high-impact research journal <br>
 💬 Taught 500+ technical and non-technical students over 17 classes, including on the use of Python <br>
-📧 Email me at [jessicacampbell.astro@gmail.com](mailto:jessicacampbell.astro@gmail.com) <br>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14">] Email me at [jessicacampbell.astro@gmail.com](mailto:jessicacampbell.astro@gmail.com) <br>
 🙌 Connect with me on LinkedIn at [linkedin.com/astrosica](https://www.linkedin.com/in/astrosica/) <br>
 ⚡ Fun fact: I cross-stitch realistic astronomy observations on [Etsy](https://www.etsy.com/ca/shop/Astrostitches)
 
@@ -12,7 +15,6 @@
 Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy), SQL (BigQuery, MySQL) <br>
 Tools: Tableau, Git/GitHub, Jupyter Notebook, MS Office Suite (Excel, PowerPoint, Word) <br>
 Techniques: EDA, Statistical analysis, Data pipelines, ML, Fourier Analysis, Documentation, Quantitative Research, Technical writing, Data visualization
-
 
 ## Data Projects
 
