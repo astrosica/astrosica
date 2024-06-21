@@ -1,6 +1,6 @@
 # Hello, I'm Jess! ✨
 
-I'm an Astrophysics Research Scientist excited to make an impact using data science.
+I'm an Astrophysics Research Scientist excited to impact the world using data.
 
 ## 👩‍💻 About Me
 🔭 Astrophysics research scientist with 8+ YOE in quantitative data-driven research and analysis <br>
