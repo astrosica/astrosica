@@ -6,7 +6,7 @@ I'm an Astrophysics Research Scientist excited to impact the world using data.
 🔭 Astrophysics research scientist with 8+ YOE in quantitative data-driven research and analysis <br>
 📚 PhD in Astronomy & Astrophysics + HBSc in Astronomy & Physics from the University of Toronto <br>
 📝 Published several technical papers in high-impact research journals <br>
-👥 Mentored a student on a year-long data project through to publication in a high-impact research journal <br>
+👥 Mentored a student on a year-long data project through to publication <br>
 💬 Taught 500+ technical and non-technical students over 17 classes, including on the use of Python <br>
 🌱 Currently learning ML (logistic regression, KNN, Random Forest, PCA, NLP) <br>
 🧵 Fun fact: I cross-stitch realistic astronomy observations on [Etsy](https://www.etsy.com/ca/shop/Astrostitches)
