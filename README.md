@@ -4,7 +4,7 @@ I'm a Data Science Consultant and former Astrophysics Research Scientist passion
 
 ## 👩‍💻 About Me
 :chart_with_upwards_trend: First employee as Data Science Consultant at fintech startup Your Treasury <br>
-🔭 Astrophysics research scientist with 8+ YOE in quantitative data-driven research and analysis <br>
+🔭 8+ YOE in quantitative data-driven research and analysis <br>
 📚 PhD in Astronomy & Astrophysics + HBSc in Astronomy & Physics from the University of Toronto <br>
 💬 Taught 500+ technical and non-technical students over 17 classes, including on the use of Python <br>
 📝 Published several technical papers in esteemed research journals <br>
