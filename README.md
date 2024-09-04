@@ -6,10 +6,9 @@ I'm a Data Science Consultant and former Astrophysics Research Scientist passion
 :chart_with_upwards_trend: First employee as Data Science Consultant at fintech startup Your Treasury <br>
 🔭 Astrophysics research scientist with 8+ YOE in quantitative data-driven research and analysis <br>
 📚 PhD in Astronomy & Astrophysics + HBSc in Astronomy & Physics from the University of Toronto <br>
-📝 Published several technical papers in high-impact research journals <br>
-👥 Mentored a student on a year-long data project through to publication <br>
 💬 Taught 500+ technical and non-technical students over 17 classes, including on the use of Python <br>
-🌱 Currently learning supervised ML (logistic regression, KNN, Random Forest, forecasting) <br>
+📝 Published several technical papers in esteemed research journals <br>
+👥 Mentored a student on a year-long data project through to publication <br>
 🧵 Fun fact: I cross-stitch realistic astronomy observations on [Etsy](https://www.etsy.com/ca/shop/Astrostitches)
 
 ## 🛠️ Skills
