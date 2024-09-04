@@ -1,8 +1,9 @@
 # Hello, I'm Jess! ✨
 
-I'm an Astrophysics Research Scientist excited to impact the world using data.
+I'm a Data Science Consultant and former Astrophysics Research Scientist passionate about impacting the world with data.
 
 ## 👩‍💻 About Me
+:chart_with_upwards_trend: First employee as Data Science Consultant at fintech startup Your Treasury <br>
 🔭 Astrophysics research scientist with 8+ YOE in quantitative data-driven research and analysis <br>
 📚 PhD in Astronomy & Astrophysics + HBSc in Astronomy & Physics from the University of Toronto <br>
 📝 Published several technical papers in high-impact research journals <br>
