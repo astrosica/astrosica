@@ -1,6 +1,6 @@
 # Hello, I'm Jess! ✨
 
-I'm a Data Science Consultant and former Astrophysics Research Scientist passionate about impacting the world with data.
+I'm a Data Science Consultant and former Astrophysicist passionate about impacting the world with data.
 
 ## 👩‍💻 About Me
 :chart_with_upwards_trend: First employee as Data Science Consultant at fintech startup Your Treasury <br>
