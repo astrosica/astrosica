@@ -1,13 +1,13 @@
 # Hello, I'm Jess! ✨
 
-I'm a Data Science Consultant and former Astrophysicist passionate about impacting the world with data.
+I'm an Astronomer turned Data Scientist passionate about building data-driven solutions.
 
 ## 👩‍💻 About Me
-:chart_with_upwards_trend: First employee as Data Science Consultant at fintech startup Your Treasury <br>
+:chart_with_upwards_trend: Became the first employee as a Data Science Advisor and Educator at a fintech startup called Your Treasury <br>
 🔭 8+ YOE in quantitative data-driven research and analysis <br>
 📚 PhD in Astronomy & Astrophysics + HBSc in Astronomy & Physics from the University of Toronto <br>
 💬 Taught 500+ technical and non-technical students over 17 classes, including on the use of Python <br>
-📝 Published several technical papers in esteemed research journals <br>
+📝 Published several data-driven papers in esteemed research journals <br>
 👥 Mentored a student on a year-long data project through to publication <br>
 🧵 Fun fact: I cross-stitch realistic astronomy observations on [Etsy](https://www.etsy.com/ca/shop/Astrostitches)
 
