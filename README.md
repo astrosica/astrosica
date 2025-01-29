@@ -3,7 +3,7 @@
 I'm an Astronomer turned Data Scientist passionate about building data-driven solutions.
 
 ## 👩‍💻 About Me
-:chart_with_upwards_trend: Became the first employee as a Data Science Advisor and Educator at a fintech startup called Your Treasury <br>
+:chart_with_upwards_trend: First employee at a fintech startup as a Data Science Advisor and Educator <br>
 🔭 8+ YOE in quantitative data-driven research and analysis <br>
 📚 PhD in Astronomy & Astrophysics + HBSc in Astronomy & Physics from the University of Toronto <br>
 💬 Taught 500+ technical and non-technical students over 17 classes, including on the use of Python <br>
