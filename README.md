@@ -1,6 +1,6 @@
 # Hello, I'm Jess! ✨
 
-I'm an Astronomer turned Data Scientist passionate about building data-driven solutions.
+I'm an Astronomer turned Data Scientist in Fintech.
 
 ## 👩‍💻 About Me
 :chart_with_upwards_trend: First employee at a fintech startup as a Data Science Advisor and Educator <br>
@@ -13,7 +13,7 @@ I'm an Astronomer turned Data Scientist passionate about building data-driven so
 
 ## 🛠️ Skills
 Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy), SQL (BigQuery, MySQL) <br>
-Tools: Tableau, Git/GitHub, Jupyter Notebook, MS Office Suite (Excel, PowerPoint, Word) <br>
+Tools: Docker, Tableau, Git/GitHub, Jupyter Notebook, MS Office Suite (Excel, PowerPoint, Word) <br>
 Techniques: EDA, Statistical analysis, Data pipelines, ML, Fourier Analysis, Documentation, Quantitative Research, Technical writing, Data visualization
 
 ## :globe_with_meridians: Contact
