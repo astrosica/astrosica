@@ -12,9 +12,8 @@ I'm an Astronomer turned Data Scientist in Fintech.
 🧵 Fun fact: I cross-stitch realistic astronomy observations on [Etsy](https://www.etsy.com/ca/shop/Astrostitches)
 
 ## 🛠️ Skills
-Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy), SQL (BigQuery, MySQL) <br>
+Languages: Python (Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, SciPy), SQL (BigQuery, MySQL) <br>
 Tools: Docker, Tableau, Git/GitHub, Jupyter Notebook, MS Office Suite (Excel, PowerPoint, Word) <br>
-Techniques: EDA, Statistical analysis, Data pipelines, ML, Fourier Analysis, Documentation, Quantitative Research, Technical writing, Data visualization
 
 ## :globe_with_meridians: Contact
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14"> Email me at [jessicacampbell.astro@gmail.com](mailto:jessicacampbell.astro@gmail.com) <br>
