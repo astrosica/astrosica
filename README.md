@@ -4,8 +4,8 @@ I'm Data Scientist and former Astrophysicist working in Fintech.
 
 ## 👩‍💻 About Me
 :chart_with_upwards_trend: Data Science Advisor and Educator @ fintech startup <br>
-📊 Automate cash forecasting, foreign exchange (FX) hedging, and cash reporting with Python
-👩🏼‍🏫 Teach corporate treasury teams (including Fortune 500 companies) about AI, ML, and LLMs
+📊 Automate cash forecasting, foreign exchange (FX) hedging, and cash reporting with Python <br>
+👩🏼‍🏫 Teach corporate treasury teams (including Fortune 500 companies) about AI, ML, and LLMs <br>
 📚 PhD in Astronomy & Astrophysics + HBSc in Astronomy & Physics from the University of Toronto <br>
 💬 Taught 500+ technical and non-technical students over 17 classes, including on the use of Python <br>
 📝 Published several quantitative research papers in high-impact journals <br>
