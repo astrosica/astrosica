@@ -3,11 +3,12 @@
 I'm an Astronomer turned Data Scientist in Fintech.
 
 ## 👩‍💻 About Me
-:chart_with_upwards_trend: First employee at a fintech startup as a Data Science Advisor and Educator <br>
-🔭 8+ YOE in quantitative data-driven research and analysis <br>
+:chart_with_upwards_trend: Data Science Advisor and Educator @ fintech startup <br>
+📊 Automate cash forecasting, foreign exchange (FX) hedging, and cash reporting with Python
+👩🏼‍🏫 Teach corporate treasury teams (including Fortune 500 companies) about AI, ML, and LLMs
 📚 PhD in Astronomy & Astrophysics + HBSc in Astronomy & Physics from the University of Toronto <br>
 💬 Taught 500+ technical and non-technical students over 17 classes, including on the use of Python <br>
-📝 Published several data-driven papers in esteemed research journals <br>
+📝 Published several quantitative research papers in high-impact journals <br>
 👥 Mentored a student on a year-long data project through to publication <br>
 🧵 Fun fact: I cross-stitch realistic astronomy observations on [Etsy](https://www.etsy.com/ca/shop/Astrostitches)
 
