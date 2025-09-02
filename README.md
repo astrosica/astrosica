@@ -1,6 +1,6 @@
 # Hello, I'm Jess! ✨
 
-I'm an Astronomer turned Data Scientist in Fintech.
+I'm Data Scientist and former Astrophysicist working in Fintech.
 
 ## 👩‍💻 About Me
 :chart_with_upwards_trend: Data Science Advisor and Educator @ fintech startup <br>
