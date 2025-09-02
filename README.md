@@ -13,7 +13,7 @@ I'm an Astronomer turned Data Scientist in Fintech.
 
 ## 🛠️ Skills
 Languages: Python (Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, SciPy), SQL (BigQuery, MySQL) <br>
-Tools: Docker, Tableau, Git/GitHub, Jupyter Notebook, MS Office Suite (Excel, PowerPoint, Word) <br>
+Tools: Git/GitHub, Jupyter, Streamlit, Docker, APIs (Claude, OpenAI), Tableau <br>
 
 ## :globe_with_meridians: Contact
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14"> Email me at [jessicacampbell.astro@gmail.com](mailto:jessicacampbell.astro@gmail.com) <br>
